@@ -1,0 +1,8 @@
+HI this is ex1
+<<<<<<< HEAD
+modified text in ex1.
+added next line.....
+new commit.
+=======
+example 1 changed textc
+>>>>>>> 091a2abc239843c6d738e97f57f6d6084cd7d23a
